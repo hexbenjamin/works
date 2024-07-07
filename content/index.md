@@ -1,5 +1,5 @@
 ---
 title: hex benjamin
-draft: "false"
+draft:
 ---
 hi nix! 💖
