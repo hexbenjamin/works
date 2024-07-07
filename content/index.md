@@ -1,5 +1,5 @@
 ---
-title: hex benjamin
+title: home
 draft:
 ---
 hi nix! 💖
