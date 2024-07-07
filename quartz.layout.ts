@@ -26,7 +26,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+      filterFn: (node) => {
+        const omit = new Set(["_assets"])
+        return !omit.has(node.name.toLowerCase())
+      },
+    })),
   ],
   right: [
     Component.Graph(),
