@@ -1,4 +1,5 @@
 ---
-title: hex benjamin | general purpose digital thingmaker
+title: hex benjamin
+draft: "false"
 ---
-haha Yeet
+hi nix! 💖
