@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: hex benjamin | general purpose digital thingmaker
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+haha Yeet
