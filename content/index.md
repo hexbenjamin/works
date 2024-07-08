@@ -6,5 +6,6 @@ draft:
 > general purpose digital thingmaker
 
 ---
-Welcome to my portfolio! Check out some of my recent work!
-- [[hex benjamin - SOLO|SOLO album artwork]]
+welcome to my portfolio! check out some of my recent work!
+- [[hex-benjamin_SOLO_single|SOLO, my first single]]
+- [[hex-benjamin_SOLO_single|SOLO album artwork]]

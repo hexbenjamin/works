@@ -1,5 +1,5 @@
 ---
-title: hex benjamin - SOLO
+title: hex benjamin - SOLO [album art]
 description: album artwork by hex benjamin
 ---
 ![[SOLO_1024.jpg]]
