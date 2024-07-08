@@ -1,6 +1,6 @@
 ---
 title: Charter Oak Museum
-draft: false
+draft: true
 ---
 > [charteroakmuseum.com](https://charteroakmuseum.com)
 ## Brief
