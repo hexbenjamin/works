@@ -12,5 +12,4 @@ description: album artwork by hex benjamin
 I started with a photograph I took through the open sunroof of my car at a red light in Hartford, CT. I used a lot of layers in "negation" mode on this one, as well as my trademark (ab)use of hue/saturation/lightness adjustments.
 
 ---
-> [!info] tags
-> #design/album-art
+**tags:** #design/album-art
